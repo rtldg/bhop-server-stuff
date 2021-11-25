@@ -1,0 +1,13 @@
+"CountryShow"
+{
+	"Messages"
+	{
+		"playerjoin"		"Player {GREEN}{PLAYERNAME} {DEFAULT}<{LIGHTGREEN}{STEAMID}{DEFAULT}> connected"
+		"playerdisc"		"Player {GREEN}{PLAYERNAME} {DEFAULT}<{LIGHTGREEN}{STEAMID}{DEFAULT}> disconnected: {DEFAULT}{DISC_REASON}"
+	}
+	"messages_admin"
+	{
+		"playerjoin"		"Player {GREEN}{PLAYERNAME} {DEFAULT}<{LIGHTGREEN}{STEAMID}{DEFAULT}> connected"
+		"playerdisc"		"Player {GREEN}{PLAYERNAME} {DEFAULT}<{LIGHTGREEN}{STEAMID}{DEFAULT}> disconnected: {DEFAULT}{DISC_REASON}"
+	}
+}

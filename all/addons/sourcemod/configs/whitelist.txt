@@ -1,0 +1,8 @@
+;; whitelist.txt
+
+192.168.1.11
+
+;STEAM_0:0:1 ; x
+;STEAM_0:0:2 ; x
+;[U:1:1]
+;<steam group clanid here>

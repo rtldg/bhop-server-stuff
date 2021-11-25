@@ -1,0 +1,60 @@
+#!/bin/sh
+
+mklink () {
+	ln -sv "$2" "$1"
+}
+
+mklink configs/shavit-advertisements.cfg "../../../../../code/bhoptimer/addons/sourcemod/configs/shavit-advertisements.cfg"
+mklink configs/shavit-chat.cfg "../../../../../code/bhoptimer/addons/sourcemod/configs/shavit-chat.cfg"
+mklink configs/shavit-chatsettings.cfg "../../../../../code/bhoptimer/addons/sourcemod/configs/shavit-chatsettings.cfg"
+mklink configs/shavit-mapfixes.cfg "../../../../../code/bhoptimer/addons/sourcemod/configs/shavit-mapfixes.cfg"
+mklink configs/shavit-messages.cfg "../../../../../code/bhoptimer/addons/sourcemod/configs/shavit-messages.cfg"
+mklink configs/shavit-prefix.txt "../../../../../code/bhoptimer/addons/sourcemod/configs/shavit-prefix.txt"
+mklink configs/shavit-replay.cfg "../../../../../code/bhoptimer/addons/sourcemod/configs/shavit-replay.cfg"
+mklink configs/shavit-sounds.cfg "../../../../../code/bhoptimer/addons/sourcemod/configs/shavit-sounds.cfg"
+mklink configs/shavit-styles.cfg "../../../../../code/bhoptimer/addons/sourcemod/configs/shavit-styles.cfg"
+mklink configs/shavit-zones.cfg "../../../../../code/bhoptimer/addons/sourcemod/configs/shavit-zones.cfg"
+
+mklink scripting/include/bhopstats.inc "../../../../../code/bhoptimer/addons/sourcemod/scripting/include/bhopstats.inc"
+mklink scripting/include/convar_class.inc "../../../../../code/bhoptimer/addons/sourcemod/scripting/include/convar_class.inc"
+mklink scripting/include/closestpos.inc "../../../../../code/bhoptimer/addons/sourcemod/scripting/include/closestpos.inc"
+mklink scripting/include/eventqueuefix.inc "../../../../../code/bhoptimer/addons/sourcemod/scripting/include/eventqueuefix.inc"
+mklink scripting/include/DynamicChannels.inc "../../../../../code/bhoptimer/addons/sourcemod/scripting/include/DynamicChannels.inc"
+mklink scripting/include/rtler.inc "../../../../../code/bhoptimer/addons/sourcemod/scripting/include/rtler.inc"
+mklink scripting/include/SteamWorks.inc "../../../../../code/bhoptimer/addons/sourcemod/scripting/include/SteamWorks.inc"
+
+mklink gamedata/shavit.games.txt "../../../../../code/bhoptimer/addons/sourcemod/gamedata/shavit.games.txt"
+mklink scripting/include/shavit.inc "../../../../../code/bhoptimer/addons/sourcemod/scripting/include/shavit.inc"
+mklink scripting/include/shavit "../../../../../code/bhoptimer/addons/sourcemod/scripting/include/shavit"
+mklink scripting/shavit-chat.sp "../../../../../code/bhoptimer/addons/sourcemod/scripting/shavit-chat.sp"
+mklink scripting/shavit-core.sp "../../../../../code/bhoptimer/addons/sourcemod/scripting/shavit-core.sp"
+mklink scripting/shavit-hud.sp "../../../../../code/bhoptimer/addons/sourcemod/scripting/shavit-hud.sp"
+mklink scripting/shavit-info.sp "../../../../../code/bhoptimer/addons/sourcemod/scripting/shavit-info.sp"
+mklink scripting/shavit-misc.sp "../../../../../code/bhoptimer/addons/sourcemod/scripting/shavit-misc.sp"
+mklink scripting/shavit-rankings.sp "../../../../../code/bhoptimer/addons/sourcemod/scripting/shavit-rankings.sp"
+#mklink scripting/shavit-replay.sp "../../../../../code/bhoptimer/addons/sourcemod/scripting/shavit-replay.sp"
+mklink scripting/shavit-replay-playback.sp "../../../../../code/bhoptimer/addons/sourcemod/scripting/shavit-replay-playback.sp"
+mklink scripting/shavit-replay-recorder.sp "../../../../../code/bhoptimer/addons/sourcemod/scripting/shavit-replay-recorder.sp"
+mklink scripting/shavit-stats.sp "../../../../../code/bhoptimer/addons/sourcemod/scripting/shavit-stats.sp"
+mklink scripting/shavit-timelimit.sp "../../../../../code/bhoptimer/addons/sourcemod/scripting/shavit-timelimit.sp"
+mklink scripting/shavit-wr.sp "../../../../../code/bhoptimer/addons/sourcemod/scripting/shavit-wr.sp"
+mklink scripting/shavit-zones.sp "../../../../../code/bhoptimer/addons/sourcemod/scripting/shavit-zones.sp"
+
+mklink translations/shavit-chat.phrases.txt "../../../../../code/bhoptimer/addons/sourcemod/translations/shavit-chat.phrases.txt"
+mklink translations/shavit-common.phrases.txt "../../../../../code/bhoptimer/addons/sourcemod/translations/shavit-common.phrases.txt"
+mklink translations/shavit-core.phrases.txt "../../../../../code/bhoptimer/addons/sourcemod/translations/shavit-core.phrases.txt"
+mklink translations/shavit-hud.phrases.txt "../../../../../code/bhoptimer/addons/sourcemod/translations/shavit-hud.phrases.txt"
+mklink translations/shavit-misc.phrases.txt "../../../../../code/bhoptimer/addons/sourcemod/translations/shavit-misc.phrases.txt"
+mklink translations/shavit-rankings.phrases.txt "../../../../../code/bhoptimer/addons/sourcemod/translations/shavit-rankings.phrases.txt"
+mklink translations/shavit-replay.phrases.txt "../../../../../code/bhoptimer/addons/sourcemod/translations/shavit-replay.phrases.txt"
+mklink translations/shavit-stats.phrases.txt "../../../../../code/bhoptimer/addons/sourcemod/translations/shavit-stats.phrases.txt"
+mklink translations/shavit-wr.phrases.txt "../../../../../code/bhoptimer/addons/sourcemod/translations/shavit-wr.phrases.txt"
+mklink translations/shavit-zones.phrases.txt "../../../../../code/bhoptimer/addons/sourcemod/translations/shavit-zones.phrases.txt"
+
+mklink gamedata/eventfix.games.txt "../../../../../code/eventqueue-fix/gamedata/eventfix.games.txt"
+mklink scripting/include/eventqueuefix.inc "../../../../../code/eventqueue-fix/scripting/include/eventqueuefix.inc"
+mklink scripting/eventqueuefix.sp "../../../../../code/eventqueue-fix/scripting/eventqueuefix.sp"
+
+mklink scripting/mpbhops_but_working.sp "../../../../../code/mpbhops_but_working/addons/sourcemod/scripting/mpbhops_but_working.sp"
+
+mklink "../../maps" "../../../../../css_maps"

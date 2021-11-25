@@ -1,0 +1,78 @@
+cd /D "%~dp0"
+
+mklink /h configs\shavit-advertisements.cfg "D:\code\bhoptimer\addons\sourcemod\configs\shavit-advertisements.cfg"
+mklink /h configs\shavit-chat.cfg "D:\code\bhoptimer\addons\sourcemod\configs\shavit-chat.cfg"
+mklink /h configs\shavit-chatsettings.cfg "D:\code\bhoptimer\addons\sourcemod\configs\shavit-chatsettings.cfg"
+mklink /h configs\shavit-mapfixes.cfg "D:\code\bhoptimer\addons\sourcemod\configs\shavit-mapfixes.cfg"
+mklink /h configs\shavit-messages.cfg "D:\code\bhoptimer\addons\sourcemod\configs\shavit-messages.cfg"
+mklink /h configs\shavit-prefix.txt "D:\code\bhoptimer\addons\sourcemod\configs\shavit-prefix.txt"
+mklink /h configs\shavit-replay.cfg "D:\code\bhoptimer\addons\sourcemod\configs\shavit-replay.cfg"
+mklink /h configs\shavit-sounds.cfg "D:\code\bhoptimer\addons\sourcemod\configs\shavit-sounds.cfg"
+mklink /h configs\shavit-styles.cfg "D:\code\bhoptimer\addons\sourcemod\configs\shavit-styles.cfg"
+mklink /h configs\shavit-zones.cfg "D:\code\bhoptimer\addons\sourcemod\configs\shavit-zones.cfg"
+
+mklink /h scripting\include\bhopstats.inc "D:\code\bhoptimer\addons\sourcemod\scripting\include\bhopstats.inc"
+mklink /h scripting\include\convar_class.inc "D:\code\bhoptimer\addons\sourcemod\scripting\include\convar_class.inc"
+mklink /h scripting\include\ClosestPos.inc "D:\code\bhoptimer\addons\sourcemod\scripting\include\ClosestPos.inc"
+mklink /h scripting\include\eventqueuefix.inc "D:\code\bhoptimer\addons\sourcemod\scripting\include\eventqueuefix.inc"
+mklink /h scripting\include\DynamicChannels.inc "D:\code\bhoptimer\addons\sourcemod\scripting\include\DynamicChannels.inc"
+mklink /h scripting\include\rtler.inc "D:\code\bhoptimer\addons\sourcemod\scripting\include\rtler.inc"
+mklink /h scripting\include\SteamWorks.inc "D:\code\bhoptimer\addons\sourcemod\scripting\include\SteamWorks.inc"
+
+mklink /j scripting\include\shavit "D:\code\bhoptimer\addons\sourcemod\scripting\include\shavit"
+
+mklink /h gamedata\shavit.games.txt "D:\code\bhoptimer\addons\sourcemod\gamedata\shavit.games.txt"
+mklink /h scripting\include\shavit.inc "D:\code\bhoptimer\addons\sourcemod\scripting\include\shavit.inc"
+mklink /h scripting\shavit-chat.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-chat.sp"
+mklink /h scripting\shavit-checkpoints.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-checkpoints.sp"
+mklink /h scripting\shavit-core.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-core.sp"
+mklink /h scripting\shavit-hud.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-hud.sp"
+mklink /h scripting\shavit-info.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-info.sp"
+mklink /h scripting\shavit-mapchooser.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-mapchooser.sp"
+mklink /h scripting\shavit-misc.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-misc.sp"
+mklink /h scripting\shavit-rankings.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-rankings.sp"
+::mklink /h scripting\shavit-replay.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-replay.sp"
+mklink /h scripting\shavit-replay-playback.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-replay-playback.sp"
+mklink /h scripting\shavit-replay-recorder.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-replay-recorder.sp"
+mklink /h scripting\shavit-stats.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-stats.sp"
+mklink /h scripting\shavit-sounds.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-sounds.sp"
+mklink /h scripting\shavit-timelimit.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-timelimit.sp"
+mklink /h scripting\shavit-wr.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-wr.sp"
+mklink /h scripting\shavit-zones.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-zones.sp"
+
+mklink /h translations\shavit-chat.phrases.txt "D:\code\bhoptimer\addons\sourcemod\translations\shavit-chat.phrases.txt"
+mklink /h translations\shavit-common.phrases.txt "D:\code\bhoptimer\addons\sourcemod\translations\shavit-common.phrases.txt"
+mklink /h translations\shavit-core.phrases.txt "D:\code\bhoptimer\addons\sourcemod\translations\shavit-core.phrases.txt"
+mklink /h translations\shavit-hud.phrases.txt "D:\code\bhoptimer\addons\sourcemod\translations\shavit-hud.phrases.txt"
+mklink /h translations\shavit-misc.phrases.txt "D:\code\bhoptimer\addons\sourcemod\translations\shavit-misc.phrases.txt"
+mklink /h translations\shavit-rankings.phrases.txt "D:\code\bhoptimer\addons\sourcemod\translations\shavit-rankings.phrases.txt"
+mklink /h translations\shavit-replay.phrases.txt "D:\code\bhoptimer\addons\sourcemod\translations\shavit-replay.phrases.txt"
+mklink /h translations\shavit-stats.phrases.txt "D:\code\bhoptimer\addons\sourcemod\translations\shavit-stats.phrases.txt"
+mklink /h translations\shavit-wr.phrases.txt "D:\code\bhoptimer\addons\sourcemod\translations\shavit-wr.phrases.txt"
+mklink /h translations\shavit-zones.phrases.txt "D:\code\bhoptimer\addons\sourcemod\translations\shavit-zones.phrases.txt"
+
+mklink /h gamedata\eventfix.games.txt "D:\code\eventqueue-fix\gamedata\eventfix.games.txt"
+mklink /h scripting\include\eventqueuefix.inc "D:\code\eventqueue-fix\scripting\include\eventqueuefix.inc"
+mklink /h scripting\eventqueuefix.sp "D:\code\eventqueue-fix\scripting\eventqueuefix.sp"
+
+mklink /h scripting\mpbhops_but_working.sp "D:\code\mpbhops_but_working\addons\sourcemod\scripting\mpbhops_but_working.sp"
+
+mklink /h scripting\wrsj.sp "D:\code\wrsj\wrsj.sp"
+
+mklink /h scripting\SoundManager.sp "D:\code\Sound-Manager\scripting\SoundManager.sp"
+mklink /h gamedata\SoundManager.games.txt "D:\code\Sound-Manager\gamedata\SoundManager.games.txt"
+
+::mklink /h scripting\anti_voice_disconnect.sp "D:\code\anti_voice_disconnect\scripting\anti_voice_disconnect.sp"
+::mklink /h gamedata\anti_voice_disconnect.games.txt "D:\code\anti_voice_disconnect\gamedata\anti_voice_disconnect.games.txt"
+
+mklink /h scripting\whitelist.sp "D:\code\smwhitelist\addons\sourcemod\scripting\whitelist.sp"
+mklink /h scripting\include\connect.inc "D:\code\smwhitelist\addons\sourcemod\scripting\include\connect.inc"
+
+mklink /h scripting\edge-helper.sp "D:\code\edge-helper\edge-helper.sp"
+
+::mklink /h gamedata\empty-classname-fixer.games.txt "D:\code\empty-classname-fixer\addons\sourcemod\gamedata\empty-classname-fixer.games.txt"
+::mklink /h configs\sourcescramble\empty-classname-fixer.cfg "D:\code\empty-classname-fixer\addons\sourcemod\configs\sourcescramble\empty-classname-fixer.cfg"
+
+mklink /h scripting\include\bash2.inc "D:\code\bash2\include\bash2.inc"
+mklink /h scripting\include\sendproxy.inc "D:\code\bash2\include\sendproxy.inc"
+mklink /h scripting\shavit-bash2.sp "D:\code\bash2\shavit-bash2.sp"
