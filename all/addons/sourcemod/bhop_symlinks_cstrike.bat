@@ -76,3 +76,61 @@ mklink /h scripting\edge-helper.sp "D:\code\edge-helper\edge-helper.sp"
 mklink /h scripting\include\bash2.inc "D:\code\bash2\include\bash2.inc"
 mklink /h scripting\include\sendproxy.inc "D:\code\bash2\include\sendproxy.inc"
 mklink /h scripting\shavit-bash2.sp "D:\code\bash2\shavit-bash2.sp"
+
+mklink /h scripting\include\bTimes-tas.inc "D:\code\Oryx-AC\addons\sourcemod\scripting\include\bTimes-tas.inc"
+mklink /h scripting\include\bTimes-timer_hack.inc "D:\code\Oryx-AC\addons\sourcemod\scripting\include\bTimes-timer_hack.inc"
+mklink /h scripting\include\oryx.inc "D:\code\Oryx-AC\addons\sourcemod\scripting\include\oryx.inc"
+mklink /h scripting\oryx.sp "D:\code\Oryx-AC\addons\sourcemod\scripting\oryx.sp"
+mklink /h scripting\oryx-configcheck.sp "D:\code\Oryx-AC\addons\sourcemod\scripting\oryx-configcheck.sp"
+mklink /h scripting\oryx-sanity.sp "D:\code\Oryx-AC\addons\sourcemod\scripting\oryx-sanity.sp"
+mklink /h scripting\oryx-scroll.sp "D:\code\Oryx-AC\addons\sourcemod\scripting\oryx-scroll.sp"
+mklink /h scripting\oryx-strafe.sp "D:\code\Oryx-AC\addons\sourcemod\scripting\oryx-strafe.sp"
+
+mklink /h scripting\shavit-newmaps.sp "D:\code\shavit-newmaps\shavit-newmaps.sp"
+
+mklink /h scripting\include\connect.inc "D:\code\smwhitelist\addons\sourcemod\scripting\include\connect.inc"
+mklink /h scripting\whitelist.sp "D:\code\smwhitelist\addons\sourcemod\scripting\whitelist.sp"
+
+mkdir scripting\include\glib
+
+mklink /h gamedata\momsurffix2.games.txt "D:\code\MomSurfFix\addons\sourcemod\gamedata\momsurffix2.games.txt"
+mklink /j scripting\momsurffix "D:\code\MomSurfFix\addons\sourcemod\scripting\momsurffix"
+mklink /h scripting\include\glib\memutils.inc "D:\code\MomSurfFix\addons\sourcemod\scripting\include\glib\memutils.inc"
+mklink /h scripting\momsurffix2.sp "D:\code\MomSurfFix\addons\sourcemod\scripting\momsurffix2.sp"
+
+mklink /h gamedata\rngfix.games.txt "D:\code\rngfix\plugin\gamedata\rngfix.games.txt"
+mklink /h scripting\rngfix.sp "D:\code\rngfix\plugin\scripting\rngfix.sp"
+
+mklink /h scripting\include\glib\addressutils.inc "D:\code\HeadBugFix\addons\sourcemod\scripting\include\glib\addressutils.inc"
+mklink /h scripting\include\glib\assertutils.inc "D:\code\HeadBugFix\addons\sourcemod\scripting\include\glib\assertutils.inc"
+mklink /h gamedata\headbugfix.games.txt "D:\code\HeadBugFix\addons\sourcemod\gamedata\headbugfix.games.txt"
+
+mklink /h scripting\jhud.sp "D:\code\jhud\jhud.sp"
+
+mklink /h gamedata\showplayerclips.games.txt "D:\code\ShowPlayerClips\addons\sourcemod\gamedata\showplayerclips.games.txt"
+mklink /h translations\showplayerclips.phrases.txt "D:\code\ShowPlayerClips\addons\sourcemod\translations\showplayerclips.phrases.txt"
+mklink /h scripting\showplayerclips.sp "D:\code\ShowPlayerClips\addons\sourcemod\scripting\showplayerclips.sp"
+mklink /j scripting\spc "D:\code\ShowPlayerClips\addons\sourcemod\scripting\spc"
+mklink /h scripting\include\dhooks_macros.inc "D:\code\ShowPlayerClips\addons\sourcemod\scripting\include\dhooks_macros.inc"
+
+mklink /h scripting\showtriggers.sp "D:\code\showtriggers\showtriggers.sp"
+
+mklink /h configs\shavit-unreal.cfg "D:\code\unrealphys\addons\sourcemod\configs\shavit-unreal.cfg"
+mklink /h scripting\shavit-unreal.sp "D:\code\unrealphys\addons\sourcemod\scripting\shavit-unreal.sp"
+
+mklink /j scripting\include\stocksoup "D:\code\stocksoup"
+mklink /h scripting\plugin_mangler.sp "D:\code\SM-PluginMangler\scripting\plugin_mangler.sp"
+
+mklink /h scripting\kid-replaybackups.sp "D:\code\Misc-Sourcemod-Plugins\kid-replaybackups.sp"
+
+mklink /h scripting\colors.sp "D:\code\gap\scripting\colors.sp"
+mklink /h scripting\gap.sp "D:\code\gap\scripting\gap.sp"
+
+mklink /h scripting\noslide.sp "D:\code\noslide\scripting\noslide.sp"
+
+mklink /j scripting\discord "D:\code\sourcemod-discord\discord"
+mklink /j scripting\include\discord "D:\code\sourcemod-discord\include\discord"
+mklink /h scripting\discord_api.sp "D:\code\sourcemod-discord\discord_api.sp"
+mklink /h scripting\include\csgocolors.inc "D:\code\sourcemod-discord\include\csgocolors.inc"
+mklink /h scripting\include\discord.inc "D:\code\sourcemod-discord\include\discord.inc"
+

@@ -73,8 +73,6 @@
 
 - shavit's thirdperson.sp https://forums.alliedmods.net/showthread.php?p=1776475
 
-- !goto / !bring https://forums.alliedmods.net/showthread.php?p=1042766
-
 - https://github.com/blankbhop/bhoptimer-firstjumptick
 
 - noslide https://github.com/shavitush/noslide
