@@ -134,3 +134,5 @@ mklink /h scripting\discord_api.sp "D:\code\sourcemod-discord\discord_api.sp"
 mklink /h scripting\include\csgocolors.inc "D:\code\sourcemod-discord\include\csgocolors.inc"
 mklink /h scripting\include\discord.inc "D:\code\sourcemod-discord\include\discord.inc"
 
+mklink /j scripting\include\json "D:\code\sm-json\addons\sourcemod\scripting\include\json"
+mklink /h scripting\include\json.inc "D:\code\sm-json\addons\sourcemod\scripting\include\json.inc"
