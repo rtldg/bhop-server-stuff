@@ -1,4 +1,5 @@
 #include <sourcemod>
+#include <sdktools>
 #include <shavit/core>
 #include <shavit/hud>
 #include <shavit/replay-playback>
