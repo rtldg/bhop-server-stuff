@@ -36,6 +36,7 @@ mklink /h scripting\shavit-replay-playback.sp "D:\code\bhoptimer\addons\sourcemo
 mklink /h scripting\shavit-replay-recorder.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-replay-recorder.sp"
 mklink /h scripting\shavit-stats.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-stats.sp"
 mklink /h scripting\shavit-sounds.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-sounds.sp"
+mklink /h scripting\shavit-tas.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-tas.sp"
 mklink /h scripting\shavit-timelimit.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-timelimit.sp"
 mklink /h scripting\shavit-wr.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-wr.sp"
 mklink /h scripting\shavit-zones.sp "D:\code\bhoptimer\addons\sourcemod\scripting\shavit-zones.sp"
