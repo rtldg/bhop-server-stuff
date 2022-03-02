@@ -12,6 +12,7 @@
 - SteamWorks
 	- https://github.com/KyleSanderson/SteamWorks/releases
 	- https://forums.alliedmods.net/showthread.php?t=229556
+	- (latest windows build) https://users.alliedmods.net/~kyles/builds/SteamWorks/SteamWorks-git132-windows.zip
 
 - https://github.com/hermansimensen/eventqueue-fix
 
