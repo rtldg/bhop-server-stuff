@@ -7,7 +7,7 @@
 
 - tickrate enabler (CS:S) https://github.com/daemon32/tickrate_enabler/releases/tag/0.5
 
-- DHooks2 https://github.com/peace-maker/DHooks2/releases
+- ~~DHooks2 https://github.com/peace-maker/DHooks2/releases~~ included in sourcemod 1.11 and higher
 
 - SteamWorks
 	- https://github.com/KyleSanderson/SteamWorks/releases
