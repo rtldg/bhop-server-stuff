@@ -40,6 +40,7 @@
 	- https://forums.alliedmods.net/showthread.php?t=310825
 	- https://github.com/jason-e/rngfix
 
+- (CS:S) https://github.com/PMArkive/random-shavit-bhoptimer-stuff/blob/main/landfix.sp
 
 - https://github.com/GAMMACASE/HeadBugFix
 
