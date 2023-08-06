@@ -52,7 +52,7 @@
 
 - showplayerclips https://github.com/GAMMACASE/ShowPlayerClips
 
-- showtriggers https://forums.alliedmods.net/showthread.php?t=290356 https://github.com/1ci/showtriggers
+- showtriggers https://github.com/ecsr/showtriggers
 
 - wrsj https://github.com/rtldg/wrsj
 	- ripext https://github.com/ErikMinekus/sm-ripext
